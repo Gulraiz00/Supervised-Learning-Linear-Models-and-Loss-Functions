@@ -1,1 +1,1 @@
-# Supervised-Learning-Linear-Models-and-Loss-Functions
+# Supervised Learning Linear Models and Loss Functions
